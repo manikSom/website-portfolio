@@ -42,6 +42,7 @@ h2 {
 }
 
 a {
+    text-decoration: none !important;
     color: #860214;
     font-size: 18px;
     font-weight: 700;
@@ -122,6 +123,26 @@ main {
     text-align: center;
     margin: 0 auto;
 }
+
+.about-body {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.contact-body {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.table-skill {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.nobull {
+    list-style-type: none;
+}
+
 
 .profile-image
 {
